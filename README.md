@@ -1,6 +1,6 @@
 Setup tutroial
 
-1. Download this project and open it in termial
+1. Download this project and open it in terminal
 2. Type npm install selenium-webdriver chromedriver
 3. Type npm test
 
