@@ -65,7 +65,7 @@ class AddPage extends BasePage {
     setTimeout(() => {
       this.driver.findElement(this.autocomplete).click();
       this.driver.findElement(this.submit).click();
-    }, 3000);
+    }, 2000);
 
     return await this.checkAddedUser();
   }
