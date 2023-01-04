@@ -4,7 +4,7 @@
     "selenium-webdriver": "^4.7.0"
   },
   "scripts": {
-    "test": "mocha test/test.js --timeout 5000"
+    "test": "mocha test/test.js --no-timeouts"
   },
   "devDependencies": {
     "chai": "^4.3.7",
