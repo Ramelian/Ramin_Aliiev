@@ -7,7 +7,7 @@ abstract class BasicRequest {
       headers: {
         // ---- If you want to change token, replace it instead my after the 'Bearer' ----
         Authorization:
-          "Bearer sl.BWWbBg7BUuSaKUo9-qrbzxZTv3FPm8If9rEfLwXwyw6ZTrO94Y90Av5l24NiJDOmsY0s3qYvWDXNc7vkP99eg7xSiozkwVsHQcQEbZpMeTbcQOE-VTXz2-JNM-3cRi8OM4hxmfoR",
+          "Bearer sl.BWXGWnTOvHfphyrg4wtjGIVoBI5iE9yrwm5HFWEiSIHYNBUV8rq5H6DgYLvocQ0xsFogTbQN0HUbEVKwgfAH9oejyHyx03Th9sBnbpOlV4Kydyti29N9b57AmSM-rLm7fOTXMvlT",
       },
       data: {},
     };
